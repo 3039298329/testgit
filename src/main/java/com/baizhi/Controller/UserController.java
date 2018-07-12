@@ -1,12 +1,5 @@
 package com.baizhi.Controller;
-
-import com.baizhi.dao.UserDao;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
-
-import javax.annotation.Resource;
-import javax.annotation.Resources;
-
 /**
  * Created by wyx on 2018/7/11.
  */
